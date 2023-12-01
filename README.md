@@ -20,5 +20,4 @@
 ### My socials
 
 <a href="https://linkedin.com/in/leonardo-cipolli-955177213" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-Recolher
  
