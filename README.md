@@ -13,8 +13,8 @@
 
 <div>
 <a href="https://github.com/CipolliLeo">
-<img loading="lazy" height="180em" width="431em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CipolliLeo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" width="431em" src="https://github-readme-stats.vercel.app/api?username=CipolliLeo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CipolliLeo&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=CipolliLeo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### My socials
