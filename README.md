@@ -9,7 +9,7 @@
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,git,java,nodejs,cpp,postman,py,raspberrypivscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,angular,py,cpp,html,css,js,bootstrap,git,java,nodejs,postman,raspberrypi,vscode)](https://skillicons.dev)
 
 <div>
 <a href="https://github.com/CipolliLeo">
