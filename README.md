@@ -2,9 +2,9 @@
 
 :wave: Hi, my name is Leonardo and I'm a soon to be fullstack developer.
 <br>
-:briefcase: Currently working as an developer intern at BASF, focused on development in Angular Framework and Typescript.
+:briefcase: Currently working as a developer at BASF, focused on development in Angular Framework and Typescript.
 <br>
-📚 Studying Analysis and System Development at FATEC - Guaratinguetá
+📚 Graduated in Analysis and System Development at FATEC - Guaratinguetá
 <br>
 
 ### Languages and Tools
